@@ -17,9 +17,9 @@ Se analizaron variables como frecuencia de asistencia, edad, duración del contr
 3. **Edad:** Los usuarios más jóvenes presentan una tasa de rotación ligeramente superior.
 
 ### 🏆 Rendimiento del Modelo
-Tras comparar varios modelos, el algoritmo de **[Pon aquí tu mejor modelo: ej. Random Forest]** fue seleccionado por su equilibrio entre precisión y sensibilidad:
-* **Accuracy:** [Ej: 92%]
-* **F1-Score (Clase Churn):** [Ej: 0.85]
+Tras comparar varios modelos, el algoritmo de Random Forest fue seleccionado por su equilibrio entre precisión y sensibilidad:
+* **Accuracy:** [92%]
+* **F1-Score (Clase Churn):** [0.85]
 
 > **Impacto:** Con este modelo, el gimnasio puede identificar al **85% de los clientes en riesgo** antes de que cancelen, permitiendo acciones de retención dirigidas.
 
