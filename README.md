@@ -1,4 +1,4 @@
-# 🏃‍♂️ Predicción de Retención de Clientes: Machine Learning para Gimnasios
+# Predicción de Retención de Clientes: Machine Learning para Gimnasios
 
 ## 🎯 Objetivo del Proyecto
 El objetivo principal fue desarrollar un modelo predictivo para identificar miembros de un gimnasio con riesgo de cancelar su suscripción (Churn). Anticipar este comportamiento permite a la administración implementar estrategias de lealtad proactivas.
