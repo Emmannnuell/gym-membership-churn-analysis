@@ -24,5 +24,5 @@ After evaluating the models, **Random Forest** was selected due to its superior 
 > **🚀 Business Impact:** By leveraging this model, the gym can accurately identify **85% of at-risk members** before they finalize their cancellation, enabling the marketing and support teams to launch proactive retention campaigns.
 
 ## 📂 Repository Structure
-* `churn.ipynb`: Complete Jupyter Notebook containing EDA, data preprocessing, feature engineering, and model training/evaluation.
+* `gym_churn_analysis.ipynb`: Complete Jupyter Notebook containing EDA, data preprocessing, feature engineering, and model training/evaluation.
 * `datasets/`: Folder containing the processed historical data used for the analysis.
